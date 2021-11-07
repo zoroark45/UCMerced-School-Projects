@@ -1,0 +1,6 @@
+I – 1:  Created quantities of 1, 2 and 10 to sell 
+II – 1: Input 2 before 1 and check to ensure program outputs appropriate message and presents the 4 functions to the user again. 
+II – 3:  Ordered 5 of item 1 first time but did not purchase when ordering again, checked the output items to make sure it’s 0 instead of 5 (no corruption of the orders) 
+III – 1: Input 3 before 1 
+III – 2: Input 3 before 2 
+IV - 3:Input 4 before 3

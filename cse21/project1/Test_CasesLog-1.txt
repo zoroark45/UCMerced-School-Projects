@@ -1,0 +1,146 @@
+I- 
+This program supports 4 functions:
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose the function you want: 1
+Please enter the number of items: 1
+Enter name of product 0: Cheese
+Enter price of product 0: 5.4
+Please enter the amount to qualify for discount: 100
+Please enter the discount rate (0.1 for 10%): .1
+This program supports 4 functions:
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose the function you want: 2
+
+Enter the amount of Cheese: 10
+
+This program supports 4 functions:
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose the function you want: 3
+
+10 count of Cheese @ $5.4 = $54.0
+
+This program supports 4 functions:
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose the function you want: 4
+
+Thanks for coming!
+Sub Total: 54.0
+-Discount: $0.0
+Total : 54.0
+
+II-
+This program supports 4 functions:
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose the function you want: 2
+
+Shop is not setup yet!
+
+This program supports 4 functions:
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose the function you want: 
+
+III-
+This program supports 4 functions:
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose the function you want: 3
+
+Shop is not setup yet!
+
+This program supports 4 functions:
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose the function you want: 1
+Please enter the number of items: 2
+Enter name of product 0: Water
+Enter price of product 0: 1.50
+Enter name of product 1: Juice
+Enter price of product 1: 1.75
+Please enter the amount to qualify for discount: 100
+Please enter the discount rate (0.1 for 10%): 0.01
+This program supports 4 functions:
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose the function you want: 3
+
+Try again: You have not bought anything
+
+This program supports 4 functions:
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose the function you want: 
+
+IV-
+This program supports 4 functions:
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose the function you want: 3
+
+Shop is not setup yet!
+
+This program supports 4 functions:
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose the function you want: 1
+Please enter the number of items: 2
+Enter name of product 0: Water
+Enter price of product 0: 1.50
+Enter name of product 1: Juice
+Enter price of product 1: 1.75
+Please enter the amount to qualify for discount: 100
+Please enter the discount rate (0.1 for 10%): 0.01
+This program supports 4 functions:
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose the function you want: 3
+
+Try again: You have not bought anything
+
+This program supports 4 functions:
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose the function you want: 4
+
+Try again: You have not bought anything
+
+This program supports 4 functions:
+1. Setup Shop
+2. Buy
+3. List Items
+4. Checkout
+Please choose the function you want: 
+
